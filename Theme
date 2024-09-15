@@ -1,0 +1,164 @@
+Here’s a preset for a Sukuna-themed Enmity theme:
+
+```json
+{
+  "name": "Sukuna Theme",
+  "description": "A dark and cursed theme inspired by Sukuna from Jujutsu Kaisen.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "seregonwar",
+      "id": "705853948052897813"
+    }
+  ],
+  "theme_color_map": {
+    "HEADER_PRIMARY": [
+      "#1A1A1A",
+      "#1A1A1A"
+    ],
+    "HEADER_SECONDARY": [
+      "#9B1C30",
+      "#9B1C30"
+    ],
+    "NORMAL_TEXT": [
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "TEXT_MUTED": [
+      "#B0B0B0",
+      "#B0B0B0"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#D50032",
+      "#D50032"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FF6F61",
+      "#FF6F61"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FF3D00",
+      "#FF3D00"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#8C2A3C",
+      "#8C2A3C"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#121212",
+      "#121212"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#1E1E1E",
+      "#1E1E1E"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#2A2A2A",
+      "#2A2A2A"
+    ],
+    "TERTIARY_BACKGROUND": [
+      "#252525",
+      "#252525"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#9B1C30",
+      "#9B1C30"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#1A1A1A",
+      "#1A1A1A"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#121212",
+      "#121212"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#1E1E1E",
+      "#1E1E1E"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#2A2A2A",
+      "#2A2A2A"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "rgba(155, 28, 48, 0.1)",
+      "#1A1A1A"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "rgba(155, 28, 48, 0.2)",
+      "hsla(0, 0%, 0%, 0.2)"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "rgba(155, 28, 48, 0.3)",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "rgba(155, 28, 48, 0.4)",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "transparent",
+      "hsla(155, 28, 48, 0.1)"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#D50032",
+      "hsla(0, 0%, 0%, 0.0)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent",
+      "hsla(0, 0%, 0%, 0)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#D50032",
+      "#D50032"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.2)",
+      "#1A1A1A"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#1A1A1A",
+      "#1A1A1A"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#1A1A1A",
+      "#1A1A1A"
+    ],
+    "TEXT_LINK": [
+      "#FF6F61",
+      "#FF6F61"
+    ],
+    "KEYBOARD": [
+      "#D50032",
+      "#D50032"
+    ]
+  },
+  "colors": {
+    "PRIMARY_DARK": "#121212",
+    "PRIMARY_DARK_100": "#1A1A1A",
+    "PRIMARY_DARK_200": "#1E1E1E",
+    "PRIMARY_DARK_300": "#252525",
+    "PRIMARY_DARK_360": "#2A2A2A",
+    "PRIMARY_DARK_400": "#2A2A2A",
+    "PRIMARY_DARK_500": "#9B1C30",
+    "PRIMARY_DARK_600": "#D50032",
+    "PRIMARY_DARK_630": "#FF3D00",
+    "PRIMARY_DARK_700": "#FF6F61",
+    "PRIMARY_DARK_800": "#FFFFFF",
+    "BRAND_NEW": "#9B1C30",
+    "STATUS_RED": "#D50032",
+    "STATUS_GREEN_600": "#4CAF50",
+    "YELLOW_STATE": "#FFC107"
+  },
+  "unsafe_colors": {
+    "CHAT_GREY": "#B0B0B0"
+  },
+  "background": {
+    "blur": 0.5,
+    "url": "https://example.com/sukuna-background.jpg",
+    "alpha": 1.0
+  }
+}
+```
+
+Feel free to customize any of the colors or background URL to better match your vision for the Sukuna theme!
