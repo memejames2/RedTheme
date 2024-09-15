@@ -1,6 +1,4 @@
-Here’s a preset for a Sukuna-themed Enmity theme:
 
-```json
 {
   "name": "Sukuna Theme",
   "description": "A dark and cursed theme inspired by Sukuna from Jujutsu Kaisen.",
@@ -159,6 +157,3 @@ Here’s a preset for a Sukuna-themed Enmity theme:
     "alpha": 1.0
   }
 }
-```
-
-Feel free to customize any of the colors or background URL to better match your vision for the Sukuna theme!
