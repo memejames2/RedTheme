@@ -1,155 +1,265 @@
 
 {
-  "name": "Sukuna Dark Theme",
-  "description": "A dark theme inspired by the character Sukuna from Jujutsu Kaisen.",
-  "version": "1.2.0",
+  "name": "Rozsa",
+  "description": "Someone dimmed the lights.",
   "authors": [
     {
-      "name": "seregonwar",
+      "name": "mortyick",
       "id": "705853948052897813"
     }
   ],
-  "theme_color_map": {
+  "semanticColors": {
     "HEADER_PRIMARY": [
-      "#1c1c1c",
-      "#1c1c1c"
+      "#6e1b1a"
     ],
     "HEADER_SECONDARY": [
-      "#2e2e2e",
-      "#2e2e2e"
+      "#7a2b2a"
     ],
-    "NORMAL_TEXT": [
-      "#eaeaea",
-      "#eaeaea"
+    "TEXT_NORMAL": [
+      "#c8a8a8"
     ],
     "TEXT_MUTED": [
-      "#b0b0b0",
-      "#b0b0b0"
+      "#b66d6d"
     ],
     "INTERACTIVE_NORMAL": [
-      "#ffcc00",
-      "#ffcc00"
+      "#a75c5c"
     ],
     "INTERACTIVE_HOVER": [
-      "#ffdd33",
-      "#ffdd33"
+      "#6d2a2a"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#ffbb00",
-      "#ffbb00"
+      "#d9b4b4"
     ],
     "INTERACTIVE_MUTED": [
-      "#a6a600",
-      "#a6a600"
+      "#6d4b4b"
     ],
     "BACKGROUND_PRIMARY": [
-      "#121212",
-      "#121212"
+      "#3b0f0f"
     ],
     "BACKGROUND_SECONDARY": [
-      "#1f1f1f",
-      "#1f1f1f"
+      "#4a1212"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#2a2a2a",
-      "#2a2a2a"
+      "#6a1a1a"
     ],
-    "TERTIARY_BACKGROUND": [
-      "#2e2e2e",
-      "#2e2e2e"
+    "BACKGROUND_TERTIARY": [
+      "#4e1414"
     ],
     "BACKGROUND_ACCENT": [
-      "#3e3e3e",
-      "#3e3e3e"
+      "#8e3a3a"
     ],
     "BACKGROUND_FLOATING": [
-      "#222222",
-      "#222222"
+      "#4a1212"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#181818",
-      "#181818"
+      "#5a1616"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#5a1616"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#4c0f0f"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#242424",
-      "#242424"
+      "#3e0f0f"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#1f1f1f",
-      "#1f1f1f"
+      "#3e0f0f"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "rgba(255, 204, 0, 0.1)",
-      "#000000"
+      "#8b5e5e"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(255, 204, 0, 0.1)",
-      "hsla(0, 0%, 0%, 0.1)"
+      "#6b2f2f"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(255, 204, 0, 0.1)",
-      "hsla(0, 0%, 0%, 0.1)"
+      "#4a1f1f"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(255, 204, 0, 0.1)",
-      "hsla(0, 0%, 0%, 0.1)"
+      "#6d2f2f"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "transparent",
-      "hsla(0, 0%, 0%, 0.1)"
+      "#3b0f0f"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#ffcc00",
-      "hsla(0, 0%, 0%, 0.0)"
+      "#5d1e1e"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#ffcc00",
-      "#ffcc00"
+      "#7a2b2b"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "rgba(0, 0, 0, 0.1)",
-      "#1c1c1c"
+      "#7a2b2b"
     ],
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#1c1c1c",
-      "#1c1c1c"
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+      "#b57b7b"
     ],
     "CHANNELS_DEFAULT": [
-      "#1c1c1c",
-      "#1c1c1c"
+      "#b36c6c"
     ],
     "TEXT_LINK": [
-      "#ffcc00",
-      "#ffcc00"
+      "#d18d8d"
+    ],
+    "TEXT_DANGER": [
+      "#a13d3d"
     ],
     "KEYBOARD": [
-      "#ffcc00",
-      "#ffcc00"
+      "#5a1616"
+    ],
+    "CHANNEL_ICON": [
+      "#4b2f2f"
+    ],
+    "CHAT_BACKGROUND": [
+      "#4b0d0d"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#5b1d1d"
+    ],
+    "REDESIGN_CHANNEL_CATAGORY_NAME_TEXT": [
+      "#b47b7b"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#c8a8a8"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#3b0f0f"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#6a1a1a"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#a85d5d"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#3b0e0e"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#a14a4a"
+    ],
+    "BORDER_FAINT": [
+      "#5b2f2f"
+    ],
+    "BG_BACKDROP": [
+      "transparent"
     ]
   },
-  "colors": {
-    "PRIMARY_DARK": "#121212",
-    "PRIMARY_DARK_100": "#121212",
-    "PRIMARY_DARK_200": "#1c1c1c",
-    "PRIMARY_DARK_300": "#2e2e2e",
-    "PRIMARY_DARK_360": "#222222",
-    "PRIMARY_DARK_400": "#2a2a2a",
-    "PRIMARY_DARK_500": "#333333",
-    "PRIMARY_DARK_600": "#3e3e3e",
-    "PRIMARY_DARK_630": "#4a4a4a",
-    "PRIMARY_DARK_700": "#555555",
-    "PRIMARY_DARK_800": "#606060",
-    "BRAND_NEW": "#ffcc00",
-    "STATUS_RED": "#ff0000",
-    "STATUS_GREEN_600": "#00ff00",
-    "YELLOW_STATE": "#ffff00"
-  },
-  "unsafe_colors": {
-    "CHAT_GREY": "#444444"
+  "rawColors": {
+    "PRIMARY_500": "#6e1b1a",
+    "PRIMARY_100": "#c8a8a8",
+    "PRIMARY_200": "#8e3a3a",
+    "PRIMARY_230": "#8e3a3a",
+    "PRIMARY_300": "#a75c5c",
+    "PRIMARY_360": "#6d2a2a",
+    "PRIMARY_400": "#a75c5c",
+    "PRIMARY_600": "#4a1f1f",
+    "PRIMARY_630": "#4e1414",
+    "PRIMARY_645": "#5b2f2f",
+    "PRIMARY_660": "#7a2b2a",
+    "PRIMARY_700": "#3b0f0f",
+    "PRIMARY_800": "#6d2f2f",
+    "BRAND_260": "#a85d5d",
+    "BRAND_360": "#8e3a3a",
+    "BRAND_500": "#a75c5c",
+    "BRAND_560": "#a75c5c",
+    "GREEN_600": "#648db8",
+    "RED_400": "#5d1e1e",
+    "WHITE_500": "#e5eff7",
+    "PLUM_1": "#b57b7b",
+    "PLUM_10": "#6d2a2a",
+    "PLUM_11": "#4b2f2f",
+    "PLUM_13": "#a75c5c",
+    "PLUM_15": "#4b2f2f",
+    "PLUM_16": "#3b0f0f",
+    "PLUM_17": "#3b0f0f",
+    "PLUM_18": "#5b2f2f",
+    "PLUM_19": "#5b2f2f",
+    "PLUM_20": "#3b0f0f",
+    "PLUM_21": "#4b2f2f",
+    "PLUM_22": "#4b2f2f",
+    "PLUM_24": "#3b0f0f",
+    "PLUM_25": "#8a5d5d",
+    "PLUM_3": "#6e1b1a",
+    "PLUM_4": "#4b2f2f",
+    "PLUM_6": "#d18d8d",
+    "PLUM_9": "#a75c5c",
+    "GREEN_100": "#e793c3",
+    "GREEN_130": "#e793c3",
+    "GREEN_160": "#e793c3",
+    "GREEN_200": "#e793c3",
+    "GREEN_230": "#e793c3",
+    "GREEN_260": "#e793c3",
+    "GREEN_300": "#e793c3",
+    "GREEN_330": "#e793c3",
+    "GREEN_345": "#e793c3",
+    "GREEN_360": "#d491c4",
+    "GREEN_400": "#e793c3",
+    "GREEN_430": "#e793c3",
+    "GREEN_460": "#e793c3",
+    "GREEN_500": "#e793c3",
+    "GREEN_530": "#e793c3",
+    "GREEN_560": "#e793c3",
+    "GREEN_630": "#e793c3",
+    "GREEN_660": "#e793c3",
+    "GREEN_700": "#e793c3",
+    "GREEN_730": "#e793c3",
+    "GREEN_760": "#e793c3",
+    "GREEN_800": "#e793c3",
+    "GREEN_830": "#e793c3",
+    "GREEN_860": "#e793c3",
+    "GREEN_900": "#e793c3",
+    "GUILD_BOOSTING_PINK": "#709ce1",
+    "GUILD_BOOSTING_PURPLE": "#c4a7e7",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#c4a7e7",
+    "RED_260": "#5e659d",
+    "RED_300": "#5e659d",
+    "RED_330": "#5e659d",
+    "RED_345": "#5e659d",
+    "RED_360": "#5e659d",
+    "RED_430": "#5e659d",
+    "RED_460": "#5e659d",
+    "RED_500": "#5e659d",
+    "RED_530": "#5e659d",
+    "RED_560": "#5e659d",
+    "RED_600": "#5e659d",
+    "RED_630": "#5e659d",
+    "RED_660": "#5e659d",
+    "RED_700": "#5e659d",
+    "YELLOW_100": "#f6c177",
+    "YELLOW_130": "#f6c177",
+    "YELLOW_160": "#f6c177",
+    "YELLOW_200": "#f6c177",
+    "YELLOW_230": "#f6c177",
+    "YELLOW_260": "#90b7dd",
+    "YELLOW_300": "#90b7dd",
+    "YELLOW_330": "#f6c177",
+    "YELLOW_345": "#f6c177",
+    "YELLOW_360": "#f6c177",
+    "YELLOW_400": "#f6c177",
+    "YELLOW_430": "#f6c177",
+    "YELLOW_460": "#f6c177",
+    "YELLOW_500": "#f6c177",
+    "YELLOW_530": "#f6c177",
+    "YELLOW_560": "#f6c177",
+    "YELLOW_600": "#6790d0",
+    "YELLOW_630": "#f6c177",
+    "YELLOW_660": "#f6c177",
+    "YELLOW_700": "#f6c177",
+    "YELLOW_730": "#f6c177",
+    "YELLOW_760": "#f6c177",
+    "YELLOW_800": "#f6c177",
+    "YELLOW_830": "#f6c177",
+    "YELLOW_860": "#f6c177",
+    "YELLOW_900": "#f6c177"
   },
   "background": {
-    "blur": 0.5,
-    "url": "https://motionbgs.com/media/1283/sukuna-unveiling.jpg",
-    "alpha": 1.0
+    "blur": 0.3,
+    "url": "https://files.catbox.moe/3kq0a2.jpeg",
+    "alpha": 0.8
+  },
+  "plus": {
+    "version": "0",
+    "mentionLineColor": "#6e1b1a40"
   }
 }
