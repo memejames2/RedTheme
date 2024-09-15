@@ -1,8 +1,8 @@
 
 {
-  "name": "Sukuna Theme",
-  "description": "A dark and cursed theme inspired by Sukuna from Jujutsu Kaisen.",
-  "version": "1.0",
+  "name": "Sukuna Dark Theme",
+  "description": "A dark theme inspired by the character Sukuna from Jujutsu Kaisen.",
+  "version": "1.2.0",
   "authors": [
     {
       "name": "seregonwar",
@@ -11,149 +11,145 @@
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#1f1d1d",
-      "#1f1d1d"
+      "#1c1c1c",
+      "#1c1c1c"
     ],
     "HEADER_SECONDARY": [
-      "#1f1d1d",
-      "#1f1d1d"
+      "#2e2e2e",
+      "#2e2e2e"
     ],
     "NORMAL_TEXT": [
-      "#FFFFFF",
-      "#FFFFFF"
+      "#eaeaea",
+      "#eaeaea"
     ],
     "TEXT_MUTED": [
-      "#B0B0B0",
-      "#B0B0B0"
+      "#b0b0b0",
+      "#b0b0b0"
     ],
     "INTERACTIVE_NORMAL": [
-      "#D50032",
-      "#D50032"
+      "#ffcc00",
+      "#ffcc00"
     ],
     "INTERACTIVE_HOVER": [
-      "#FF6F61",
-      "#FF6F61"
+      "#ffdd33",
+      "#ffdd33"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#FF3D00",
-      "#FF3D00"
+      "#ffbb00",
+      "#ffbb00"
     ],
     "INTERACTIVE_MUTED": [
-      "#8C2A3C",
-      "#8C2A3C"
+      "#a6a600",
+      "#a6a600"
     ],
     "BACKGROUND_PRIMARY": [
       "#121212",
       "#121212"
     ],
     "BACKGROUND_SECONDARY": [
-      "#1E1E1E",
-      "#1E1E1E"
+      "#1f1f1f",
+      "#1f1f1f"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#2A2A2A",
-      "#2A2A2A"
+      "#2a2a2a",
+      "#2a2a2a"
     ],
     "TERTIARY_BACKGROUND": [
-      "#252525",
-      "#252525"
+      "#2e2e2e",
+      "#2e2e2e"
     ],
     "BACKGROUND_ACCENT": [
-      "#9B1C30",
-      "#9B1C30"
+      "#3e3e3e",
+      "#3e3e3e"
     ],
     "BACKGROUND_FLOATING": [
-      "#1A1A1A",
-      "#1A1A1A"
+      "#222222",
+      "#222222"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#1f1d1d",
-      "#1f1d1d"
+      "#181818",
+      "#181818"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#262121",
-      "#262121"
+      "#242424",
+      "#242424"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#2A2A2A",
-      "#2A2A2A"
+      "#1f1f1f",
+      "#1f1f1f"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "rgba(155, 28, 48, 0.1)",
-      "#1A1A1A"
+      "rgba(255, 204, 0, 0.1)",
+      "#000000"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(155, 28, 48, 0.2)",
-      "hsla(0, 0%, 0%, 0.2)"
+      "rgba(255, 204, 0, 0.1)",
+      "hsla(0, 0%, 0%, 0.1)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(155, 28, 48, 0.3)",
-      "hsla(0, 0%, 0%, 0)"
+      "rgba(255, 204, 0, 0.1)",
+      "hsla(0, 0%, 0%, 0.1)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(155, 28, 48, 0.4)",
-      "hsla(0, 0%, 0%, 0)"
+      "rgba(255, 204, 0, 0.1)",
+      "hsla(0, 0%, 0%, 0.1)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "transparent",
-      "hsla(155, 28, 48, 0.1)"
+      "hsla(0, 0%, 0%, 0.1)"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#D50032",
+      "#ffcc00",
       "hsla(0, 0%, 0%, 0.0)"
     ],
-    "SCROLLBAR_THIN_TRACK": [
-      "transparent",
-      "hsla(0, 0%, 0%, 0)"
-    ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#D50032",
-      "#D50032"
+      "#ffcc00",
+      "#ffcc00"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "rgba(0, 0, 0, 0.2)",
-      "#1A1A1A"
+      "rgba(0, 0, 0, 0.1)",
+      "#1c1c1c"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#1A1A1A",
-      "#1A1A1A"
+      "#1c1c1c",
+      "#1c1c1c"
     ],
     "CHANNELS_DEFAULT": [
-      "#1A1A1A",
-      "#1A1A1A"
+      "#1c1c1c",
+      "#1c1c1c"
     ],
     "TEXT_LINK": [
-      "#FF6F61",
-      "#FF6F61"
+      "#ffcc00",
+      "#ffcc00"
     ],
     "KEYBOARD": [
-      "#D50032",
-      "#D50032"
+      "#ffcc00",
+      "#ffcc00"
     ]
   },
   "colors": {
     "PRIMARY_DARK": "#121212",
-    "PRIMARY_DARK_100": "#1A1A1A",
-    "PRIMARY_DARK_200": "#1E1E1E",
-    "PRIMARY_DARK_300": "#252525",
-    "PRIMARY_DARK_360": "#2A2A2A",
-    "PRIMARY_DARK_400": "#2A2A2A",
-    "PRIMARY_DARK_500": "#9B1C30",
-    "PRIMARY_DARK_600": "#D50032",
-    "PRIMARY_DARK_630": "#FF3D00",
-    "PRIMARY_DARK_700": "#FF6F61",
-    "PRIMARY_DARK_800": "#FFFFFF",
-    "BRAND_NEW": "#9B1C30",
-    "STATUS_RED": "#D50032",
-    "STATUS_GREEN_600": "#4CAF50",
-    "YELLOW_STATE": "#FFC107"
+    "PRIMARY_DARK_100": "#121212",
+    "PRIMARY_DARK_200": "#1c1c1c",
+    "PRIMARY_DARK_300": "#2e2e2e",
+    "PRIMARY_DARK_360": "#222222",
+    "PRIMARY_DARK_400": "#2a2a2a",
+    "PRIMARY_DARK_500": "#333333",
+    "PRIMARY_DARK_600": "#3e3e3e",
+    "PRIMARY_DARK_630": "#4a4a4a",
+    "PRIMARY_DARK_700": "#555555",
+    "PRIMARY_DARK_800": "#606060",
+    "BRAND_NEW": "#ffcc00",
+    "STATUS_RED": "#ff0000",
+    "STATUS_GREEN_600": "#00ff00",
+    "YELLOW_STATE": "#ffff00"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#B0B0B0"
+    "CHAT_GREY": "#444444"
   },
   "background": {
     "blur": 0.5,
-    "url": "https://w0.peakpx.com/wallpaper/902/896/HD-wallpaper-sukuna.jpg",
+    "url": "https://motionbgs.com/media/1283/sukuna-unveiling.jpg",
     "alpha": 1.0
   }
 }
